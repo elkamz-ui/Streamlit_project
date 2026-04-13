@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 
 df = pd.read_csv("Pandas Project.csv")
-st.title("PANDAS PROJECT")
+st.title("STREAMLIT PROJECT")
 
 st.markdown("## About ")
 st.markdown("### This is a dashboard showing a companies shipment data. It contains relevant KPIs and Charts")
